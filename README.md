@@ -82,7 +82,7 @@ Shows the successful execution of the GitHub Actions workflow that builds and pu
 ---
 
 ### 🐳 2. Docker Image Successfully Pushed to Docker Hub
-Displays the pushed Docker image in Docker Hub under the repository `devopsnikki/devops-webapp`.
+Displays the pushed Docker image in Docker Hub under the repository `nikkigoyal/nodejs-demo-webapp`.
 
 ![Docker Hub Image](output_ss/dockerhub_image_pushed.png)
 
@@ -112,7 +112,9 @@ Demonstrates pulling the image from Docker Hub and running it locally using Dock
 
 ## 🙋‍♀️ Contact
 
-Made by Nikki Goyal
-GitHub: https://github.com/devops-nikki
-Docker Hub: https://hub.docker.com/repositories/nikkigoyal
+`Made by Nikki Goyal`
+
+`GitHub: https://github.com/devops-nikki`
+
+`Docker Hub: https://hub.docker.com/repositories/nikkigoyal`
 
