@@ -36,13 +36,15 @@ This repository is part of **Task 1** of my DevOps internship. It demonstrates h
 
 Pull and run the Docker image:
 
-```bash
-docker pull nikkigoyal/nodejs-demo-webapp:latest
-docker run -d -p 3000:3000 <image_id>
+
+`docker pull nikkigoyal/nodejs-demo-webapp:latest`
+`docker run -d -p 3000:3000 <image_id>`
 
 Then Open your browser and visit:
 
 `http://localhost:3000`
+
+---
 
 ## 🔐 GitHub Secrets (Used in This Project for CI/CD)
 
@@ -66,9 +68,7 @@ This repository uses GitHub Actions to automate Docker image build and push:
 
 `1. Push to main branch triggers the CI/CD workflow.`
 
-
 `2. Docker image is built from the repository source code.`
-
 
 `3. Image is pushed automatically to Docker Hub repository.`
 
