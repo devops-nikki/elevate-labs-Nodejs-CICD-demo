@@ -38,6 +38,7 @@ Pull and run the Docker image:
 
 
 `docker pull nikkigoyal/nodejs-demo-webapp:latest`
+
 `docker run -d -p 3000:3000 <image_id>`
 
 Then Open your browser and visit:
